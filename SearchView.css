@@ -1,0 +1,57 @@
+.heroCard {
+    border-style: solid;
+    margin-top: 20px;
+    background-color: rgb(198, 216, 248);
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+.searchView {
+    margin-top: 20px;
+}
+
+p {
+    font-family: 'Comic Sans MS';
+}
+
+.heroBio {
+    border-style: solid;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+#newSearch {
+    border-style: solid;
+    height: 50px;
+    width: 150px;
+    background-color: rgb(32, 214, 32);
+    font-family: 'Comic Sans MS';
+    margin-top: 20px;
+}
+
+#moviesButton {
+    height: 50px;
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Comic Sans MS';
+}
+
+#movieButtonDiv {
+    margin-top: 20px;
+}
+
+.movie {
+    border-style: solid;
+    margin: 20px;
+}
+
+#moviesContainer {
+    margin: 40px;
+}
+
+#addToMyList {
+    margin-bottom: 10px;
+}

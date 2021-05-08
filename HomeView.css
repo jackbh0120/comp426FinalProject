@@ -1,0 +1,31 @@
+.homePage {
+    display: center;
+    background-color: rgb(209, 243, 243);
+}
+
+.title {
+    display: inline-block;
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  img {
+      height: 600px;
+      width: 550px;
+      margin-top: 10px;
+  }
+
+  h1, h3 {
+      font-family: 'Comic Sans MS', 'Comic Sans';
+  }

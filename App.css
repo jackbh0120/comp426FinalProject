@@ -1,0 +1,69 @@
+.app {
+  text-align: center;
+}
+
+.navButton {
+  width: 12%;
+  height: auto;
+  margin-right: 10px;
+  margin-left: 10px;
+  border: none;
+  background-color: rgb(32, 214, 32);
+  font-size: 20px;
+  text-align: center;
+  height: 30px;
+  font-family: 'Comic Sans MS', 'Comic Sans';
+}
+
+.buttonHolder {
+  text-align: center;
+  width: 100%;
+}
+
+.search {
+  background-color: rgb(32, 214, 32);
+  height: 60px;
+  display: flex;
+  justify-content: center;
+}
+
+.signInInput {
+  margin-left: 10px;
+  margin-top: 5px;
+  height: 10px;
+  width: 50%;
+  height: 60%;
+}
+
+.signInLabel {
+  margin-right: 10px;
+  width: 50%
+}
+
+#signIn {
+  margin-top: 20px;
+  display: inline-block;
+  text-align: center;
+}
+
+.signInButton {
+  margin-top: 20px;
+  margin-left: 5px;
+  height: 40px;
+  width: 100px;
+}
+
+.movieCard {
+  border-style: solid;
+  background-color: rgb(198, 216, 248);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 50%;
+  text-align: center;
+  display: inline-block;
+}
+
+.movieInfo {
+  border-top: solid;
+}
+
